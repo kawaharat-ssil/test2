@@ -1,1 +1,4 @@
 https://turbonas-backup-to-s3.s3.ap-northeast-1.amazonaws.com/public/099_User/%E3%80%90033%E3%80%91kawahara/ISO9001_20230613/
+
+ git config --global user.email "kawaharat@ssil.co.jp"
+  git config --global user.name "kawaharaNote"
